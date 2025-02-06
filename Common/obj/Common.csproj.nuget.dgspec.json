@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\שנה ב\\c#++\\ModelLayer\\Common\\Common.csproj": {}
+    "C:\\Users\\100\\Documents\\GitHub\\ModelLayer1\\Common\\Common.csproj": {}
   },
   "projects": {
-    "H:\\שנה ב\\c#++\\ModelLayer\\Common\\Common.csproj": {
+    "C:\\Users\\100\\Documents\\GitHub\\ModelLayer1\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\שנה ב\\c#++\\ModelLayer\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\100\\Documents\\GitHub\\ModelLayer1\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "H:\\שנה ב\\c#++\\ModelLayer\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\100\\Documents\\GitHub\\ModelLayer1\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\100\\.nuget\\packages\\",
-        "outputPath": "H:\\שנה ב\\c#++\\ModelLayer\\Common\\obj\\",
+        "outputPath": "C:\\Users\\100\\Documents\\GitHub\\ModelLayer1\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
